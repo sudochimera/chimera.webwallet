@@ -1,0 +1,21 @@
+{
+  "name": "chimerawebwallet",
+  "version": "1.0.0",
+  "description": "Fully client side web wallet for Chimera",
+  "main": "index.js",
+  "dependencies": {
+    "typescript": "^2.9.2",
+    "workbox-build": "^3.3.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tylersisia/chimera-webwallet.git"
+  },
+  "author": "Gnock",
+  "license": "BSD-3",
+  "bugs": {
+    "url": "https://github.com/tylersisia/chimera-webwallet/issues"
+  },
+  "homepage": "https://github.com/tylersisia/chimera-webwallet#readme"
+}
